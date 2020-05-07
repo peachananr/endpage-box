@@ -2,10 +2,8 @@
 This plugin will let you add an end page box that will display when scrolled to the bottom or in any range on the page. 
 Created by [Pete R.](http://www.thepetedesign.com), Founder of [BucketListly](http://www.bucketlistly.com)
 
-[![End Page Box](http://www.thepetedesign.com/images/endpage_box_image.png "End Page Box")](http://www.thepetedesign.com/demos/endpage_box_demo.html)
-
 ## Demo
-[View demo](http://www.thepetedesign.com/demos/endpage_box_demo.html)
+[View demo](http://peachananr.github.io/endpage-box/endpage_box_demo.html)
 
 ## Compatibility
 Modern browsers such as Chrome, Firefox, and Safari, both on desktop and mobile have been tested.
